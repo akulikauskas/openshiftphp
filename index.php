@@ -6,7 +6,7 @@
 
 <body> 
 	<h1>ANKUL page</h1>
-		<p><b>Openshift Batch DanskeIT Bank</b></p>
+		<p><b>Automation test</b></p>
 		<?php echo "The Current Date and yes las  Time is: <br />";
 		echo date("g:i A l, F j Y.");?> </p>
 	<h2>PHP Information </h2> 
